@@ -1,3 +1,27 @@
+/*
+Preppin' Data | 2021 Week 2: Bike Sales Analysis
+
+Challenge:
+Clean and transform bike sales data to analyze sales performance
+across brands, bike types, and stores.
+
+Objectives:
+- Clean the Model field to extract bike brand codes.
+- Calculate order values using bike prices and quantities.
+- Aggregate sales by brand and bike type to calculate total
+  quantity sold, order value, and average bike value.
+- Calculate the number of days between order and shipment.
+- Aggregate sales by brand and store to calculate total
+  quantity sold, order value, and average shipping time.
+- Produce two summary tables for analysis.
+
+Tool: Snowflake SQL
+Concepts: Data cleaning, calculated fields, aggregations,
+GROUP BY, date calculations, and CTEs.
+
+Source: https://preppindata.blogspot.com/2021/01/2021-week-2.html
+*/
+
 SELECT *
 FROM PD2021_WK02_BIKE_SALES;
 
