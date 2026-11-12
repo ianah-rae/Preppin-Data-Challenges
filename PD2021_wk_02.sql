@@ -22,6 +22,8 @@ GROUP BY, date calculations, and CTEs.
 Source: https://preppindata.blogspot.com/2021/01/2021-week-2.html
 */
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 SELECT *
 FROM PD2021_WK02_BIKE_SALES;
 
